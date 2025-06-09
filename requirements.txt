@@ -1,0 +1,8 @@
+streamlit
+langchain
+google-generativeai
+requests
+pandas
+pyngrok
+langchain-community
+langchain-google-genai
